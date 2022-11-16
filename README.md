@@ -16,3 +16,14 @@ To reset the table, Dana would need to clear out her inputs. She can now add new
 
 ## Summary
 
+### Drawbacks
+- The data is limited in size and scope.
+
+- The data is outdated and there is not a way to pull in current data.
+
+### Recommendations
+- Having dropdown lists for each filter would allows users to see all of their filtering options.
+
+- Adding additional countries would enhance the dataset and provide more in depth analysis.
+
+
